@@ -1,0 +1,33 @@
+.jumbotron {
+  background-color: rgb(48, 56, 56);
+  background-image: url('./images/Clouds.jpg');
+  background-repeat: no-repeat;
+}
+.display-4 {
+  color: rgb(61, 61, 61);
+  font-size: 50px;
+  font-weight: 500;
+}
+
+li {
+  overflow: auto;
+}
+
+.low {
+  color: white;
+  background-color: rgb(96, 90, 104);
+}
+
+.high {
+  color: white;
+  background-color: rgb(119, 9, 9);
+}
+
+.badge {
+  font-size: 100%;
+}
+
+#weather-icon {
+  max-width: 30px;
+  max-height: 50px;
+}
