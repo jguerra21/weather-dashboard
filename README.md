@@ -1,3 +1,5 @@
+Deployed website:  https://jguerra21.github.io/weather-dashboard/index.html
+
 # weather-dashboard
 For this project i have used HTML,JQuery,CSS for styling.
 I have used APIS keys from weather open weather to retrive the date for my dashboard. To accomplish the time i have used mozilla date prototype to retrive the date.
